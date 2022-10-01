@@ -1,4 +1,6 @@
 **/bin
 **/obj
 *.db
-.vscode
+**/images
+**/debug
+**/.vscode
